@@ -1,9 +1,10 @@
 table {
+	width: 600px;
 	margin: auto;
 	text-align: center;
-	border: 2px solid silver;
+	border-collapse: collapse;
 }
 
-th {	
-	font-style: bold;
+td, th {
+	border: 2px solid silver;
 }
