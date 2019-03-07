@@ -2,7 +2,8 @@ body {
   background-image: url(../imagens/fundo.png);
   margin-left: 10%;
   margin-right: 10%;
-  font-family: arial;
+  font-family: arial;    
+  text-align: justify;
 }
 
 
@@ -22,11 +23,6 @@ img {
   border:4px solid limegreen;
 }
 
-p {
-  text-align: justify;
-}
-
-
-blockquote {
+blockquote, q {
   font-style: italic;
 }
